@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Menu", 
+  "value": [
+    "!@#_anchor<ul class=\"menu\">", 
+    "  <li><a href=\"#\">One</a></li>", 
+    "  <li><a href=\"#\">Two</a></li>", 
+    "  <li><a href=\"#\">Three</a></li>", 
+    "  <li><a href=\"#\">Four</a></li>", 
+    "</ul>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

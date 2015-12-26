@@ -1,0 +1,24 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Input Text Form", 
+  "value": [
+    "!@#_anchor<form>", 
+    "  <div class=\"row\">", 
+    "    <div class=\"medium-6 columns\">", 
+    "      <label>Input Label", 
+    "        <input type=\"text\" placeholder=\".medium-6.columns\">", 
+    "      </label>", 
+    "    </div>", 
+    "    <div class=\"medium-6 columns\">", 
+    "      <label>Input Label", 
+    "        <input type=\"text\" placeholder=\".medium-6.columns\">", 
+    "      </label>", 
+    "    </div>", 
+    "  </div>", 
+    "</form>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

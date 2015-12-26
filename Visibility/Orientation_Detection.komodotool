@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Orientation Detection", 
+  "value": [
+    "!@#_anchor<p class=\"show-for-landscape\">You are in landscape orientation.</p>", 
+    "<p class=\"show-for-portrait\">You are in portrait orientation.</p>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

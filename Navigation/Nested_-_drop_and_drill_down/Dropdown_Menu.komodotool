@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Dropdown Menu", 
+  "value": [
+    "!@#_anchor<ul class=\"dropdown menu\"  data-dropdown-menu>", 
+    "  <li>", 
+    "    <a href=\"#\">One</a>", 
+    "    <ul class=\"menu\">", 
+    "      <li><a href=\"#\">One-One</a></li>", 
+    "      <li><a href=\"#\">One-Two</a></li>", 
+    "      <li><a href=\"#\">One-Three</a></li>", 
+    "    </ul>", 
+    "  </li>", 
+    "  <li><a href=\"#\">Two</a></li>", 
+    "  <li><a href=\"#\">Three</a></li>", 
+    "  <li><a href=\"#\">Four</a></li>", 
+    "</ul>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

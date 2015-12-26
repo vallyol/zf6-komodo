@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basics Group", 
+  "value": [
+    "!@#_anchor<div class=\"button-group\">", 
+    "  <a class=\"button\">One</a>", 
+    "  <a class=\"button\">Two</a>", 
+    "  <a class=\"button\">Three</a>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

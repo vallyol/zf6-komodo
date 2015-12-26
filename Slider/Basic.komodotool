@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<div class=\"slider\" data-slider data-initial-start=\"50\" data-end=\"200\">", 
+    "  <span class=\"slider-handle\"  data-slider-handle role=\"slider\" tabindex=\"1\"></span>", 
+    "  <span class=\"slider-fill\" data-slider-fill></span>", 
+    "  <input type=\"hidden\">", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

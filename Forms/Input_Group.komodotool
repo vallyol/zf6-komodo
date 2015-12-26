@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Input Group", 
+  "value": [
+    "!@#_anchor<div class=\"input-group\">", 
+    "  <span class=\"input-group-label\">$</span>", 
+    "  <input class=\"input-group-field\" type=\"number\">", 
+    "  <div class=\"input-group-button\">", 
+    "    <input type=\"submit\" class=\"button\" value=\"Submit\">", 
+    "  </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

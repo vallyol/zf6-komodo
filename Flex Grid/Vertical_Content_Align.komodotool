@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Vertical Content Align", 
+  "value": [
+    "!@#_anchor<div class=\"row\">", 
+    "  <div class=\"column align-middle\">One column</div>", 
+    "  <div class=\"column\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras feugiat ex eget eros ornare feugiat. Morbi leo eros, bibendum vehicula bibendum et, porta ullamcorper leo. </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

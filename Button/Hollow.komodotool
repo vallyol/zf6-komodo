@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Hollow", 
+  "value": [
+    "!@#_anchor<button class=\"hollow button\" href=\"#\">Primary Color</button>", 
+    "<button class=\"secondary hollow button\" href=\"#\">Secondary Color</button>", 
+    "<button class=\"success hollow button\" href=\"#\">Success Color</button>", 
+    "<button class=\"alert hollow button\" href=\"#\">Alert Color</button>", 
+    "<button class=\"warning hollow button\" href=\"#\">Warning Color</button>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

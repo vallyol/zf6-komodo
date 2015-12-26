@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Full Width Row - 1200px", 
+  "value": [
+    "<div class=\"column row!@#_currentPos!@#_anchor\">", 
+    "\t<!-- ... -->", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

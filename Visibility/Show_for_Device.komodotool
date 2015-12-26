@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Show for Device", 
+  "value": [
+    "!@#_anchor<p>You are on a small screen or larger.</p>", 
+    "<p class=\"show-for-medium\">You are on a medium screen or larger.</p>", 
+    "<p class=\"show-for-large\">You are on a large screen or larger.</p>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

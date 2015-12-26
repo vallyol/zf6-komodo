@@ -1,0 +1,28 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Simple Magellan", 
+  "value": [
+    "!@#_anchor<ul class=\"horizontal menu\" data-magellan>", 
+    "  <li><a href=\"#first\">First</a></li>", 
+    "  <li><a href=\"#second\">Second</a></li>", 
+    "  <li><a href=\"#third\">Third</a></li>", 
+    "</ul>", 
+    "<div class=\"sections\">", 
+    "  <section id=\"first\" data-magellan-target=\"first\">", 
+    "    <h3>First</h3>", 
+    "    <!--Some Elements-->", 
+    "  </section>", 
+    "  <section id=\"second\" data-magellan-target=\"second\">", 
+    "    <h3>Second</h3>", 
+    "    <!--Some Elements-->", 
+    "  </section>", 
+    "  <section id=\"third\" data-magellan-target=\"third\">", 
+    "    <h3>Third</h3>", 
+    "    <!--Some Elements-->", 
+    "  </section>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

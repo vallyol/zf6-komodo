@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Dropdown", 
+  "value": [
+    "!@#_anchor<button class=\"dropdown button\">Dropdown Button</button>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

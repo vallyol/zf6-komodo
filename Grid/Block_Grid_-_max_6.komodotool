@@ -1,0 +1,30 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Block Grid - max.6", 
+  "value": [
+    "<div class=\"row small-up-2 medium-up-3!@#_currentPos!@#_anchor large-up-6\">", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=1\" alt=\"kitten\" />", 
+    "  </div>", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=2\" alt=\"kitten\" />", 
+    "  </div>", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=3\" alt=\"kitten\" />", 
+    "  </div>", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=4\" alt=\"kitten\" />", 
+    "  </div>", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=5\" alt=\"kitten\" />", 
+    "  </div>", 
+    "  <div class=\"column\">", 
+    "    <img src=\"http://placekitten.com/200/200?image=7\" alt=\"kitten\" />", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

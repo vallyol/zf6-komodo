@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Remove Paddings for different screen", 
+  "value": [
+    "!@#_anchor<div class=\"row small-uncollapse medium-collapse large-uncollapse\">", 
+    "  <div class=\"small-6 columns\">Six</div>", 
+    "  <div class=\"small-6 columns\">Six</div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

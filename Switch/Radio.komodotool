@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Radio", 
+  "value": [
+    "!@#_anchor<div class=\"switch\">", 
+    "  <input class=\"switch-input\" id=\"exampleRadioSwitch1\" type=\"radio\" checked name=\"testGroup\">", 
+    "  <label class=\"switch-paddle\" for=\"exampleRadioSwitch1\">", 
+    "    <span class=\"show-for-sr\">Bulbasaur</span>", 
+    "  </label>", 
+    "</div>", 
+    "<div class=\"switch\">", 
+    "  <input class=\"switch-input\" id=\"exampleRadioSwitch2\" type=\"radio\" checked name=\"testGroup\">", 
+    "  <label class=\"switch-paddle\" for=\"exampleRadioSwitch2\">", 
+    "    <span class=\"show-for-sr\">Bulbasaur</span>", 
+    "  </label>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

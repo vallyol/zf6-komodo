@@ -1,0 +1,12 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Hide for Device", 
+  "value": [
+    "!@#_anchor<p class=\"hide-for-medium\">You are <em>not</em> on a medium screen or larger.</p>", 
+    "<p class=\"hide-for-large\">You are <em>not</em> on a large screen or larger.</p>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

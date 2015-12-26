@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Closable", 
+  "value": [
+    "!@#_anchor<div class=\"alert callout\" data-closable>", 
+    "  <h5>This is Important!</h5>", 
+    "  <p>But when you're done reading it, click the close button in the corner to dismiss this alert.</p>", 
+    "  <button class=\"close-button\" aria-label=\"Dismiss alert\" type=\"button\" data-close>", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

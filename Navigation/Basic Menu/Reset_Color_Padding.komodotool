@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Reset Color & Padding", 
+  "value": [
+    "!@#_anchor<ul class=\"menu simple\">", 
+    "  <li><a href=\"#\">One</a></li>", 
+    "  <li><a href=\"#\">Two</a></li>", 
+    "  <li><a href=\"#\">Three</a></li>", 
+    "  <li><a href=\"#\">Four</a></li>", 
+    "</ul>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

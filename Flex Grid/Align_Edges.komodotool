@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Align Edges", 
+  "value": [
+    "!@#_anchor<div class=\"row align-justify\">", 
+    "  <div class=\"small-4 columns\">One column</div>", 
+    "  <div class=\"small-4 columns\">Two column</div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Grid", 
+  "value": [
+    "<div class=\"row\">", 
+    "  <div class=\"small-X medium-X large-X columns\">", 
+    "\t\t!@#_currentPos!@#_anchor<!-- ... -->", 
+    "\t</div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

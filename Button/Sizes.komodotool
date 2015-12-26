@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Sizes", 
+  "value": [
+    "!@#_anchor<a class=\"tiny button\" href=\"#\">So Tiny</a>", 
+    "<a class=\"small button\" href=\"#\">So Small</a>", 
+    "<a class=\"button\" href=\"#\">So Basic</a>", 
+    "<a class=\"large button\" href=\"#\">So Large</a>", 
+    "<a class=\"expanded button\" href=\"#\">Such Expand</a>", 
+    "<a class=\"small expanded button\" href=\"#\">Wow, Small Expand</a>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

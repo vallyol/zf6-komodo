@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Hide for Device ONLY", 
+  "value": [
+    "!@#_anchor<p class=\"hide-for-small-only\">You are <em>definitely not</em> on a small screen.</p>", 
+    "<p class=\"hide-for-medium-only\">You are <em>definitely not</em> on a medium screen.</p>", 
+    "<p class=\"hide-for-large-only\">You are <em>definitely not</em> on a large screen.</p>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

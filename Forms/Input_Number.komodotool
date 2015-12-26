@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Input Number", 
+  "value": [
+    "!@#_anchor<form>", 
+    "  <div class=\"row\">", 
+    "    <label>Input Label", 
+    "      <input type=\"number\" value=\"100\">", 
+    "    </label>", 
+    "  </div>", 
+    "</form>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

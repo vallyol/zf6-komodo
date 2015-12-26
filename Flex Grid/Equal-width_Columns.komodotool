@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Equal-width Columns", 
+  "value": [
+    "!@#_anchor<div class=\"row\">", 
+    "  <div class=\"columns\">One column</div>", 
+    "  <div class=\"columns\">Two column</div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

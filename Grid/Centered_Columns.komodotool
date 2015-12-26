@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Centered Columns", 
+  "value": [
+    "!@#_anchor<div class=\"row\">", 
+    "  <div class=\"small-6 small-centered columns\">Six</div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

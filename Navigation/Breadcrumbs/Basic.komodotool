@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<nav aria-label=\"You are here:\" role=\"navigation\">", 
+    "  <ul class=\"breadcrumbs\">", 
+    "    <li><a href=\"#\">Home</a></li>", 
+    "    <li><a href=\"#\">Features</a></li>", 
+    "    <li class=\"disabled\">Gene Splicing</li>", 
+    "    <li>", 
+    "      <span class=\"show-for-sr\">Current: </span> Cloning", 
+    "    </li>", 
+    "  </ul>", 
+    "</nav>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

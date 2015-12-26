@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Row with 100% width", 
+  "value": [
+    "!@#_anchor<div class=\"expanded row\">", 
+    "\t<!-- ... -->", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

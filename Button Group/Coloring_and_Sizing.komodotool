@@ -1,0 +1,27 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Coloring and Sizing", 
+  "value": [
+    "!@#_anchor<div class=\"small button-group\">", 
+    "  <a class=\"secondary button\">View</a>", 
+    "  <a class=\"success button\">Edit</a>", 
+    "  <a class=\"warning button\">Share</a>", 
+    "  <a class=\"alert button\">Delete</a>", 
+    "</div>", 
+    "<div class=\"large button-group\">", 
+    "  <a class=\"secondary button\">View</a>", 
+    "  <a class=\"success button\">Edit</a>", 
+    "  <a class=\"warning button\">Share</a>", 
+    "  <a class=\"alert button\">Delete</a>", 
+    "</div>", 
+    "<div class=\"tiny button-group\">", 
+    "  <a class=\"secondary button\">View</a>", 
+    "  <a class=\"success button\">Edit</a>", 
+    "  <a class=\"warning button\">Share</a>", 
+    "  <a class=\"alert button\">Delete</a>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

@@ -1,0 +1,21 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Nested Vertical Menu", 
+  "value": [
+    "!@#_anchor<ul class=\"menu vertical\">", 
+    "  <li>", 
+    "    <a href=\"#\">One</a>", 
+    "    <ul class=\"nested menu vertical\">", 
+    "      <li><a href=\"#\">One-One</a></li>", 
+    "      <li><a href=\"#\">One-Two</a></li>", 
+    "      <li><a href=\"#\">One-Three</a></li>", 
+    "    </ul>", 
+    "  </li>", 
+    "  <li><a href=\"#\">Two</a></li>", 
+    "  <li><a href=\"#\">Three</a></li>", 
+    "</ul>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

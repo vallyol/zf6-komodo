@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Row", 
+  "value": [
+    "!@#_anchor<div class=\"row\">", 
+    "\t<!-- ... -->", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

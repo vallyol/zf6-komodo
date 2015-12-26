@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Order Column", 
+  "value": [
+    "!@#_anchor<div class=\"row\">", 
+    "  <div class=\"column order-1 medium-order-2\">One column</div>", 
+    "  <div class=\"column order-2 medium-order-1\">Two column</div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

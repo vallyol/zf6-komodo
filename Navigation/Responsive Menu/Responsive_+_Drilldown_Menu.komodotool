@@ -1,0 +1,29 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Responsive + Drilldown Menu", 
+  "value": [
+    "!@#_anchor<ul class=\"vertical menu\" data-responsive-menu=\"drilldown medium-dropdown\" style=\"max-width: 250px;\">", 
+    "  <li>", 
+    "    <a href=\"#\">One</a>", 
+    "    <ul class=\"vertical menu\" data-submenu>", 
+    "      <li><a href=\"#\">One-One</a></li>", 
+    "      <li>", 
+    "        <a href=\"#\">One-Two</a>", 
+    "        <ul class=\"vertical menu\" data-submenu>", 
+    "          <li><a href=\"#\">One-Two-One</a></li>", 
+    "          <li><a href=\"#\">One-Two-Two</a></li>", 
+    "          <li><a href=\"#\">One-Two-Three</a></li>", 
+    "        </ul>", 
+    "      </li>", 
+    "      <li><a href=\"#\">One-Three</a></li>", 
+    "    </ul>", 
+    "  </li>", 
+    "  <li><a href=\"#\">Two</a></li>", 
+    "  <li><a href=\"#\">Three</a></li>", 
+    "  <li><a href=\"#\">Four</a></li>", 
+    "</ul>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}
