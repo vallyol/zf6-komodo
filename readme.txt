@@ -9,3 +9,6 @@ I. Install
 
 II. How to use
 ==============
+
+III. Resources
+==============
