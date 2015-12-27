@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Colored", 
+  "value": [
+    "!@#_anchor<span class=\"label\">Default Label</span>", 
+    "<span class=\"secondary label\">Secondary Label</span>", 
+    "<span class=\"success label\">Success Label</span>", 
+    "<span class=\"alert label\">Alert Label</span>", 
+    "<span class=\"warning label\">Warning Label</span>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

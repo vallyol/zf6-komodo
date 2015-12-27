@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Large", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"exampleModal22\">Click me for a large modal</a></p>", 
+    "", 
+    "<div class=\"large reveal\" id=\"exampleModal22\" data-reveal>", 
+    "  <p>I'm big, like bear!</p>", 
+    "  <button class=\"close-button\" data-close aria-label=\"Close reveal\" type=\"button\">", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

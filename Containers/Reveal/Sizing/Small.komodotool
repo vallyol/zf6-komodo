@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Small", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"exampleModal21\">Click me for a small modal</a></p>", 
+    "", 
+    "<div class=\"small reveal\" id=\"exampleModal21\" data-reveal>", 
+    "  <p>I may be small, but I've got a big heart!</p>", 
+    "  <button class=\"close-button\" data-close aria-label=\"Close reveal\" type=\"button\">", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

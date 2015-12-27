@@ -1,0 +1,30 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Vertical Tabs", 
+  "value": [
+    "!@#_anchor<div class=\"row collapse\">", 
+    "", 
+    "  <div class=\"medium-3 columns\">", 
+    "    <ul class=\"tabs vertical\" data-tabs id=\"example-tabs\">", 
+    "      <li class=\"tabs-title is-active\"><a href=\"#panel1\" aria-selected=\"true\">Tab 1</a></li>", 
+    "      <li class=\"tabs-title\"><a href=\"#panel2\">Tab 2</a></li>", 
+    "    </ul>", 
+    "  </div>", 
+    "", 
+    "  <div class=\"medium-9 columns\">", 
+    "    <div class=\"tabs-content vertical\" data-tabs-content=\"example-tabs\">", 
+    "      <div class=\"tabs-panel is-active\" id=\"panel1\">", 
+    "        <p>Tabs #1 Content</p>", 
+    "      </div>", 
+    "      <div class=\"tabs-panel\" id=\"panel2\">", 
+    "        <p>Tabs #2 Content</p>", 
+    "      </div>", 
+    "    </div>", 
+    "  </div>", 
+    "", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

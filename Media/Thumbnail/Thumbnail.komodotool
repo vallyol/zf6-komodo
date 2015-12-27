@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Thumbnail", 
+  "value": [
+    "!@#_anchor<img class=\"thumbnail\" src=\"http://placekitten.com/200/200?image=9\" alt=\"Kitten\">!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

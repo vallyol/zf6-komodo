@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Colored", 
+  "value": [
+    "!@#_anchor<span class=\"badge\">1</span>", 
+    "<span class=\"secondary badge\">2</span>", 
+    "<span class=\"success badge\">3</span>", 
+    "<span class=\"alert badge\">A</span>", 
+    "<span class=\"warning badge\">B</span>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

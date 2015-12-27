@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Full Screen", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"exampleModal22\">Click me for a full modal</a></p>", 
+    "", 
+    "<div class=\"full reveal\" id=\"exampleModal22\" data-reveal>", 
+    "  <p>I'm full screen!</p>", 
+    "  <button class=\"close-button\" data-close aria-label=\"Close reveal\" type=\"button\">", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

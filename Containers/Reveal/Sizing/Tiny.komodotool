@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Tiny", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"exampleModal2\" aria-controls=\"exampleModal2\">Click me for a tiny modal</a></p>", 
+    "", 
+    "<div class=\"tiny reveal\" id=\"exampleModal2\" data-reveal>", 
+    "  <p>OH I'M SO TIIINY</p>", 
+    "  <button class=\"close-button\" data-close aria-label=\"Close reveal\" type=\"button\">", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

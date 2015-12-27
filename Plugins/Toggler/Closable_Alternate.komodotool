@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Closable Alternate", 
+  "value": [
+    "!@#_anchor<div class=\"callout\" data-closable=\"slide-out-right\">", 
+    "  <button class=\"close-button\" data-close>&times;</button>", 
+    "  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore praesentium sint alias dolorum qui vel quaerat, libero consequatur non esse asperiores veritatis commodi, odit eum ipsam nemo dicta iste aliquam.</p>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

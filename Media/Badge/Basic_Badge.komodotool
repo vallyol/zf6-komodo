@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Badge", 
+  "value": [
+    "!@#_anchor<span class=\"badge\">1</span>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

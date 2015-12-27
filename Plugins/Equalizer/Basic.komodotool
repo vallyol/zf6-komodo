@@ -1,0 +1,26 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<div class=\"row\" data-equalizer data-equalize-on=\"medium\" id=\"test-eq\">", 
+    "  <div class=\"medium-4 columns\">", 
+    "    <div class=\"callout\" data-equalizer-watch>", 
+    "      <img src= \"http://placekitten.com/200/200?image=9\" class=\"float-center\">", 
+    "    </div>", 
+    "  </div>", 
+    "  <div class=\"medium-4 columns\">", 
+    "    <div class=\"callout\" data-equalizer-watch>", 
+    "      <p>Pellentesque habitant morbi tristique senectus et netus et, ante.</p>", 
+    "    </div>", 
+    "  </div>", 
+    "  <div class=\"medium-4 columns\">", 
+    "    <div class=\"callout\" data-equalizer-watch>", 
+    "      <img src= \"http://placekitten.com/300/300?image=9\" class=\"float-center\">", 
+    "    </div>", 
+    "  </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

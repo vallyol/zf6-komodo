@@ -1,0 +1,33 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Title Bar Right", 
+  "value": [
+    "!@#_anchor<div class=\"off-canvas-wrapper\">", 
+    "  <div class=\"off-canvas-wrapper-inner\" data-off-canvas-wrapper>", 
+    "    <div class=\"off-canvas position-right\" id=\"offCanvasRight\" data-off-canvas data-position=\"right\">", 
+    "      <!--Off-Canvas navigation here...-->", 
+    "      <ul class=\"menu vertical\">", 
+    "        <li><a href=\"#\">One</a></li>", 
+    "        <li><a href=\"#\">Two</a></li>", 
+    "        <li><a href=\"#\">Three</a></li>", 
+    "        <li><a href=\"#\">Four</a></li>", 
+    "      </ul>", 
+    "    </div>", 
+    "    <div class=\"off-canvas-content\" data-off-canvas-content>", 
+    "      <div class=\"title-bar\">", 
+    "        <div class=\"title-bar-right\">", 
+    "          <button class=\"menu-icon\" type=\"button\" data-open=\"offCanvasRight\"></button>", 
+    "          <span class=\"title-bar-title\">My Site</span>", 
+    "        </div>", 
+    "      </div>", 
+    "      <!--Off-Canvas content here", 
+    "      Note: Off-Canvas Nav Height is max- and min-height = 100%%", 
+    "      If Off-Canvas Content area is small, then Off-Canvas menu will have a scroll bar-->", 
+    "    </div>", 
+    "  </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

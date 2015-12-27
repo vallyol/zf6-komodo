@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<span class=\"label\">Default Label</span>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

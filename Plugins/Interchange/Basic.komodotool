@@ -1,0 +1,10 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<img data-interchange=\"[assets/img/small.jpg, small], [assets/img/medium.jpg, medium], [assets/img/large.jpg, large]\">!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

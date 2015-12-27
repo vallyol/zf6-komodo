@@ -1,0 +1,21 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic", 
+  "value": [
+    "!@#_anchor<div class=\"columns small-12\">", 
+    "  <div class=\"columns small-9\">", 
+    "    <p>", 
+    "      <!--Some content...-->", 
+    "    </p>", 
+    "  </div>", 
+    "  <div class=\"columns small-3 right\" data-sticky-container>", 
+    "    <div class=\"sticky\" data-sticky>", 
+    "      <img class=\"thumbnail\" src=\"http://placekitten.com/200/200?image=5\">", 
+    "    </div>", 
+    "  </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

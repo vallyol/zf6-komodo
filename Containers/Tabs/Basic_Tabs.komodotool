@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic Tabs", 
+  "value": [
+    "!@#_anchor<ul class=\"tabs\" data-tabs id=\"example-tabs\">", 
+    "  <li class=\"tabs-title is-active\"><a href=\"#panel1\" aria-selected=\"true\">Tab 1</a></li>", 
+    "  <li class=\"tabs-title\"><a href=\"#panel2\">Tab 2</a></li>", 
+    "</ul>", 
+    "", 
+    "<div class=\"tabs-content\" data-tabs-content=\"example-tabs\">", 
+    "  <div class=\"tabs-panel is-active\" id=\"panel1\">", 
+    "    <p>Tabs #1 Content</p>", 
+    "  </div>", 
+    "  <div class=\"tabs-panel\" id=\"panel2\">", 
+    "    <p>Tabs #2 Content</p>", 
+    "  </div>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

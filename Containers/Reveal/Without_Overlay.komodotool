@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Without Overlay", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"exampleModal4\">Click me for an overlay-lacking modal</a></p>", 
+    "", 
+    "<div class=\"reveal\" id=\"exampleModal4\" data-reveal data-overlay=\"false\">", 
+    "  <p>I feel so free!</p>", 
+    "  <button class=\"close-button\" data-close aria-label=\"Close reveal\" type=\"button\">", 
+    "    <span aria-hidden=\"true\">&times;</span>", 
+    "  </button>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.7", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}

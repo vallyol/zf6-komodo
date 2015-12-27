@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Toggle with Animation", 
+  "value": [
+    "!@#_anchor<p><a data-toggle=\"panel\">Toggle Panel</a></p>", 
+    "", 
+    "<div class=\"callout\" id=\"panel\" data-toggler data-animate=\"hinge-in-from-top spin-out\">", 
+    "  <h4>Hello!</h4>", 
+    "  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta quas optio alias voluptas nobis iusto mollitia asperiores incidunt reprehenderit doloribus voluptatibus officiis minus, inventore, quasi nisi. Consequuntur, quidem. Sint, dicta?</p>", 
+    "</div>!@#_currentPos"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false"
+}
