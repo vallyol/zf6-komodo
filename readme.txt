@@ -12,11 +12,13 @@ All snippets confirmed to be working in the current version 6.1 and is made in K
 I. Install
 ==========
 Method i - drag and drop the downloaded *.komodotool onto your toolbox. 
+
 Method ii - Import
   - open toolbox,
   - click the "gear" icon,
   - select the import option
 (To import the downloaded archive, extract it and select the option "Import folder from file system")
+
 Method iii - Manual: unzip the archive and copy the result in komodo profile directory in Tool directory.
 
 P.S.Komodo stores preferences, macros, templates, keybinding schemes and other settings in a user-specific directory called the user data directory. The name and location of this directory varies depending on the operating system and Komodo version:
@@ -31,6 +33,11 @@ P.S.Komodo stores preferences, macros, templates, keybinding schemes and other s
     /Users/<user>/Library/Application Support/Komodo[IDE|Edit]/<version>
 
 P.P.S Toolboxes stored in Tool directory
+
+Method iv - clone github repo:
+  - cd Komodo profile directory
+  - in terminal: git clone https://github.com/vallyol/zf6-komodo.git
+  - open Komodo Edit/IDE and ... use :)
 
 
 II. How to use
